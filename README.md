@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bist, late 40ies. IT Infrastructure dude and currently working as Presales Engineer
-- 👀 I’m interested in learning everything. I would really love to learn Go but as I am not a dev guy....it's going slow
+- 👀 I’m interested in learning everything. I would really love to learn Go but as I am not a dev guy....it's going slow. Python is going a lot faster. Trying FastApi
 - 🌱 I’m currently learning Go on Mac M1 using Neovim
+- 
 
 
 <!---
