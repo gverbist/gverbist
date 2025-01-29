@@ -1,10 +1,30 @@
-- 👋 Hi, I’m Bist, late 40ies. IT Infrastructure dude and currently working as Presales Engineer
-- 👀 I’m interested in learning everything. I would really love to learn Go but as I am not a dev guy....it's going slow. Python is going a lot faster. Trying FastApi
-- 🌱 I’m currently learning Go on Mac M1 using Neovim
-- 
+👋 Hi, I’m Geert Verbist!
+A self-proclaimed nerd and curious explorer of tech, tools, and all things digital. I may not write code, but I sure know how to break it (and occasionally fix it).
 
+🔍 What I do:
 
-<!---
-gverbist/gverbist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I tinker with tools like Docker, DeepSeek, and whatever shiny new app catches my eye.
+
+I dive into the world of cybersecurity, asking questions like "How can this be hacked?" and "How do I protect it?"
+
+I turn "I have no idea what I'm doing" into "Look, I made it work!"
+
+🛠️ Tools I love:
+
+Docker (for containerizing my chaos).
+
+DeepSeek (for when I need a virtual rubber duck).
+
+Brave (my true best friend and ad-blocking hero).
+
+🌟 Fun fact:
+I once spent an entire weekend configuring Neovim just to feel like a hacker. Totally worth it.
+
+✍️ I blog about my nerdy adventures at bist.be.
+It’s a mix of tech discoveries, cybersecurity insights, and the occasional "how-to" for fellow explorers.
+
+🚀 My superpower:
+Turning confusion into clarity, one Brave search at a time.
+
+📫 Let’s connect!
+If you’re into tech adventures, cybersecurity, or just want to share a cool tool, hit me up. Bonus points if you send cat memes.
